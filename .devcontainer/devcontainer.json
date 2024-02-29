@@ -2,5 +2,5 @@
   "name": "Node.js",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18-bullseye",
   "updateContentCommand": "yarn install",
-  "postAttachCommand": "yarn dev"
+  "postAttachCommand": "yarn dev --open"
 }
