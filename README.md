@@ -1,13 +1,11 @@
-# Vite + React
+# DHTMLX Suite + React
 
-This is a [Vite](https://vitejs.dev) project together with React.
+This is a [DHTMLX Suite ](https://docs.dhtmlx.com/suite/) project together with React.
 
-
-[![Edit in Codespace](https://www.clker.com/cliparts/3/U/9/2/6/e/button-edit-hi.png)]([https://CODESPACE-NAME.github.dev](https://effective-space-chainsaw-jjjpr74g9vq73594j.github.dev/))
 
 ## Resources
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+
+- [DHTMLX Suite  — Docs](https://docs.dhtmlx.com/suite/)
 - [Vite — GitHub](https://github.com/vitejs/vite)
 - [Vite — Docs](https://vitejs.dev/guide/)
